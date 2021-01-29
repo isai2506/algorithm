@@ -1,7 +1,3 @@
-# algorithm
-# Welcome to StackEdit!
-
- 
 
 ## encabezado 2
 texto normal
