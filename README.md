@@ -1,52 +1,48 @@
+# introtoalgorithm
+practice from the class
+# Welcome to StackEdit! ## encabezado 2
 
-## encabezado 2
-texto normal
+texto normal a piece of code
 
- 
-
-a piece of code
 ```javascript
-function test() 
-{ 
-    console.log("look ma’, no spaces");
+
+function test() 
+
+{
+
+    console.log("look ma’, no spaces");
+
 }
+
 ```
+
 normal text
+
 ```python
 print(another code block)
 ```
 
- 
+### encabezado 3 como generar listas
 
-### encabezado 3
-
- 
-
-como generar listas
 * elemento
+
 * otro elemento
+
 * another
-* final
 
- 
+* final ordered
 
-ordered
-1. element 
+1. element 
+
 2. other
-3. another
 
- 
+3. another **negritas** _cursiva_ y normal
 
-**negritas** _cursiva_ y normal
-__negritas__ *cursiva* normal
+__negritas__ *cursiva* normal $E = \frac{​​​​1}​​​​{​​​​2}​​​​mv^2$ ## Operators
 
- 
+logical operators are 
 
-$E = \frac{1}{2}mv^2$
+* AND  &&
 
- 
+* OR  ||
 
-## Operators
-logical operators are 
-* AND  &&
-* OR  ||
